@@ -1,9 +1,8 @@
 # Question-Answering_NLP
 This is a work produced by me and other students enrolled in the MSc Computer Science and Engineering course of Politecnico Di Milano university.
+In particular, the project was related to the Natural Language Processing course.
 
-In particular, the project was related to the Natural Language Processiong course.
 In this assignment we analysed publicly available text datasets, applying the techniques we have learnt in the NLP course to train various machine learning models to perform NLP tasks.
-
 The work is divided into 4 main tasks, with their related sub-tasks, and it consists in:
 1- Preliminary analysis of the dataset
 2- Training model (GPT2, GPT-NEO, TF5)
