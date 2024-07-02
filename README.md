@@ -7,7 +7,7 @@ The work is divided into 4 main tasks, with their related sub-tasks, and it cons
 
 1- Preliminary analysis of the dataset
 
-2- Training model (GPT2, GPT-NEO, TF5)
+2- Training models (GPT2, GPT-NEO, TF5)
 
 3- Performance evaluation of the models
 
